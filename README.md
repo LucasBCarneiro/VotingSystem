@@ -37,6 +37,7 @@ If any of these checks fail, the transaction is reverted, protecting the contrac
 
 Each Ethereum address is allowed to vote **only once**. In the demo, this validation was shown in action: after the first successful vote, a second attempt from the same address was blocked with an error.
 
+Sepolia Contract Address 0xDDD7be497e4cd5a411B05e7eb0f146236D1C8958
 ---
 
 ## 🔐 Security
